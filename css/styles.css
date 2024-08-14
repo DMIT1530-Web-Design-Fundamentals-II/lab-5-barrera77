@@ -339,7 +339,7 @@ footer {
     margin: auto;
   }
   .parallax-scrolling {
-    background-image: url("../img/splash-mobile.webp");
+    background-image: url("../img/splash.webp");
     background-position: center;
     background-size: cover;
   }
